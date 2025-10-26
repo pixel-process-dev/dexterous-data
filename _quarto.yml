@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Dexterous Data"
+  site-url: "https://dexterousdata.com"
+  navbar:
+    logo: /assets/images/DxDLogo.png
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Services"
+        href: services.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    center: |
+      © 2025 Dexterous Data LLC · All Rights Reserved
+    right: |
+      Email at: <dexterous.data.llc@gmail.com>
+
+format:
+  html:
+    theme: flatly 
+    css: assets/css/styles.css  
+    email-obfuscation: javascript

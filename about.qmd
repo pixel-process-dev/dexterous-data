@@ -1,0 +1,70 @@
+---
+title: "About"
+format: html
+---
+
+I founded DxD to help individuals and teams learn faster, streamline processes, and work more effectively with their data.
+
+My passion for understanding, evaluating, automating, and sharing excelled me through a Ph.D, data science roles in industry, and now DxD.
+
+Dexterous Data is a one-person consultancy focused on providing clarity and solutions to your tech and data woes.  
+
+---
+
+## Background
+
+- **Ph.D. in Psychology** with a research focus on fMRI neuroimaging and methods.  
+  - Published 20+ peer-reviewed articles including first author publications  
+  - Deep experience in survey design, image processing, natural language processing (NLP), machine learning (ML), and experimental methods.   
+
+- **Industry experience**:  
+  - 2 years at a Big 4 accounting firm, working on early machine learning solutions with Azure ML.  
+  - Data science instructor at a coding bootcamp, designing and teaching applied curricula.  
+  - Contract work with teams at NIH and FDA, supporting government research and data initiatives.  
+
+---
+
+## Tech Stack & Skills
+
+- **Data Science Techniques:** Predictive Modeling (Classification, Regression) | Natural Language Processing (NLP) | Computer Vision (Image Classification, Feature Extraction) | Experimental Design (Stimulus Presentation, Power Analysis) | Visualization (Exploratory Data Analysis: EDA, Metrics, Feature Extraction) | Time-Series Analysis | Deep Learning
+- **Machine Learning (ML) and Modeling:** Algorithms (Random Forest, Boosting, Clustering) | Techniques (A/B Testing, Hypothesis Testing, Time Series Analysis)
+- **Python:** Pandas | Numpy | Scipy | Matplotlib | Seaborn | Scikit-Learn | NLTK | OpenCV | Keras | KerasOCR | Asyncio | Requests | JSON | Skimpy
+- **Publishing & Frontend for Data Science:** Quarto, JupyterLite, Pyodide, HTML, CSS, JavaScript
+- **Other Software and Tools:** R (Tidyverse, ggplot2) | MATLAB | SQL | SPSS | AFNI | SPM | Shell Scripting | Linux | Database (PostgresSQL, MongoDB)
+- **Development Tools:** Git | GitHub | Anaconda | Jupyter | VS Code | RStudio
+- **Cloud Services:** Amazon Web Services (AWS) | Microsoft Azure | Azure Machine Learning
+
+
+---
+
+## What I Offer
+
+My primary domain of expertise is **data, statistics, and workflows**, allowing for me to understand and contribute to many types of work. I've worked with large image datasets for fMRI research, financial analyses, built my own websites, and automated workflows everywhere along the way. 
+
+Over 15+ years, I’ve developed a strength for:  
+
+- Rapidly learning new tools and methods 
+- Identifying bottlenecks, inefficiencies, and points of friction
+- Designing solutions like naming conventions, automated processes, and interactive training resources to make work smoother, faster, and reproducible. 
+
+As a technical prototyper and workflow architect, **my expertise lies in programming and data**. I bring research, testing, collaboration, and mentoring skills that create solutions across domains—helping teams in any field work more effectively with data.
+
+---
+
+## Why Dexterous Data?
+
+The name **Dexterous Data** reflects not just what I do, but how I do it:  
+
+- **DxD is Adept** — delivering expert insight and scalable solutions  
+- **DxD is Adaptable** — drawing on experience, tailored to your specific needs  
+- **DxD is Deft** — embedding automation and troubleshooting into every solution  
+
+Whatever your data or tech need, DxD’s goal is to remove friction and let you focus on what matters most.
+
+---
+
+## Work With DxD
+
+Have a use-case in mind? Want more details? 
+
+Email me at <dexterous.data.llc@gmail.com> and I’ll review it and respond if it is a good fit.

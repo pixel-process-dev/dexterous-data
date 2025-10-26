@@ -1,0 +1,70 @@
+---
+title: "Dexterous Data"
+format: html
+title-block-style: none
+---
+
+Dexterous Data (DxD) helps individuals and teams learn faster, streamline processes, and work more effectively with their data.
+
+- Lots of data, no analysis plan? **DxD structures.**
+- Recurring issues slowing you down? **DxD automates.**
+- Struggling with a tool or concept? **DxD explains.**
+- Need training materials that last? **DxD documents.**
+
+With 15+ years of programming and research experience, DxD brings expertise in:  
+
+- **Data Science & Analytics:** Natural Language Processing (NLP), Computer Vision, Exploratory Data Analysis (EDA) and Feature Engineering, Predictive Modeling (Regression/Classification), Null Hypothesis Significance Testing (NHST), Optical Character Recognition (OCR)
+- **Tech Stack:** Python, R, Git, GitHub, Jupyter Lab/Notebooks, Remote & Cloud Computing, Mac & Linux, Quarto
+- **Data Types:** Text, Images, Survey, Experimental Designs, Time-Series, Messy/Incomplete/High Variance
+
+DxD offers insight and solutions to technical and data issues at any level with a focus on fixing root causes.
+
+---
+
+## Services
+
+DxD provides three core offerings:  
+
+- **Trainings** — Custom websites, interactive notebooks, and Quarto materials designed for teams.  
+- **Consulting** — Workflow design, reproducibility practices, and standard operating procedures. 
+- **Mentoring** — Hourly Python mentoring, project guidance, and code review.  
+ 
+Feel free to reach out, even your request might not match a specific offering, DxD is here to help.
+
+See the [Services page](services.qmd) for details.
+
+---
+
+## Signature Project: Pixel Process
+
+[**Pixel Process (PxP)**](https://www.pixelprocess.org/) is a free, open-source learning environment oriented towards hands-on, practical programming and analysis.  
+
+- 50+ content pages including web pages, Jupyter notebooks, and interactive pages  
+- Fully open source and available for anyone to explore: **ad-free, privacy forward**  
+- PxP is built using popular open source tools:
+  - **Front-end**: Quarto, GitHub Pages, HTML, CSS
+  - **Back-end**: FastAPI, nginx
+  - **Programming Languages**: Python, R
+  - **Interactivity**: JupyterLite, JupyterLab with Binder, WebR
+- Contents include:
+  - Introduction to programming concenpts
+  - Data Visualization Guides
+  - Machine Learning Tutorials 
+
+PxP combines **programming, design, and pedagogy** to create interactive, reproducible, and helpful learning tools.
+
+---
+
+## About Me
+
+I am the founder of DxD, with a Ph.D. in psychology and 15+ years of experience in data science, research, and teaching. My background spans academia, industry, and government contracts (FDA, NIH).  
+
+My focus is **data, methods, and workflows**—researching, testing, and building solutions that remove friction so teams can focus on their expertise.
+
+---
+
+## Work With DxD
+
+Have a use-case in mind? Want more details? 
+
+Email me at <dexterous.data.llc@gmail.com> and I’ll review it and respond if it is a good fit.
