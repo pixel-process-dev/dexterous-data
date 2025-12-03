@@ -27,11 +27,9 @@ DxD provides three core offerings:
 
 - **Trainings** — Custom websites, interactive notebooks, and Quarto materials designed for teams.  
 - **Consulting** — Workflow design, reproducibility practices, and standard operating procedures. 
-- **Mentoring** — Hourly Python mentoring, project guidance, and code review.  
+- **[Tutoring](tutoring.qmd)** — Hourly Python mentoring, project guidance, and code review.  
  
 Feel free to reach out, even your request might not match a specific offering, DxD is here to help.
-
-See the [Services page](services.qmd) for details.
 
 ---
 
