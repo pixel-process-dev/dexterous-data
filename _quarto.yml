@@ -9,22 +9,15 @@ website:
     right:
       - text: "Home"
         href: index.qmd
-      - text: "Services"
-        href: services.qmd
-      - text: "Tutoring"
-        href: tutoring.qmd
       - text: "About"
         href: about.qmd
       - text: "Contact"
-        href: contact.qmd
+        href: "mailto:dexterous.data.llc@gmail.com"
   page-footer:
     center: |
-      © 2025 Dexterous Data LLC · All Rights Reserved
-    right: |
-      Email at: <dexterous.data.llc@gmail.com>
+      © 2026 Dexterous Data LLC · All Rights Reserved
 
 format:
   html:
-    theme: flatly 
-    css: assets/css/styles.css  
+    theme: [flatly, custom.scss]
     email-obfuscation: javascript

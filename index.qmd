@@ -1,68 +1,56 @@
 ---
 title: "Dexterous Data"
-format: html
 title-block-style: none
+title-block-banner: false
+format:
+  html:
+    include-in-header:
+      text: |
+        <style>#title-block-header { display: none; }</style>
 ---
 
-Dexterous Data (DxD) helps individuals and teams learn faster, streamline processes, and work more effectively with their data.
+::: {.pxp-section-header}
+# Dexterous Data
+[Data science consulting for real-world results]{.section-subtitle}
+:::
 
-- Lots of data, no analysis plan? **DxD structures.**
-- Recurring issues slowing you down? **DxD automates.**
-- Struggling with a tool or concept? **DxD explains.**
-- Need training materials that last? **DxD documents.**
 
-With 15+ years of programming and research experience, DxD brings expertise in:  
+## The Problems I Solve
 
-- **Data Science & Analytics:** Natural Language Processing (NLP), Computer Vision, Exploratory Data Analysis (EDA) and Feature Engineering, Predictive Modeling (Regression/Classification), Null Hypothesis Significance Testing (NHST), Optical Character Recognition (OCR)
-- **Tech Stack:** Python, R, Git, GitHub, Jupyter Lab/Notebooks, Remote & Cloud Computing, Mac & Linux, Quarto
-- **Data Types:** Text, Images, Survey, Experimental Designs, Time-Series, Messy/Incomplete/High Variance
+**Your model works on test data but fails in production.** Benchmark accuracy doesn't guarantee real-world performance. I help teams design validation strategies that test what actually matters for their use case — not just whether the numbers look good on held-out data.
 
-DxD offers insight and solutions to technical and data issues at any level with a focus on fixing root causes.
+**Your team is building ML features without formal training.** Smart engineers can ship models. Knowing whether those models are doing what you think they're doing requires a different skillset — experimental design, statistical reasoning, and validation methodology. I build custom training materials and workflows tailored to your team's stack and problems.
 
----
-
-## Services
-
-DxD provides three core offerings:  
-
-- **Trainings** — Custom websites, interactive notebooks, and Quarto materials designed for teams.  
-- **Consulting** — Workflow design, reproducibility practices, and standard operating procedures. 
-- **[Tutoring](tutoring.qmd)** — Hourly Python mentoring, project guidance, and code review.  
- 
-Feel free to reach out, even your request might not match a specific offering, DxD is here to help.
+**You hit a wall you can't debug past.** Whether you're a researcher whose analysis pipeline broke, a developer whose ML integration isn't behaving, or a founder prototyping a data feature — sometimes you need someone who's seen the problem before. I do hourly sessions for focused problem-solving.
 
 ---
 
-## Signature Project: Pixel Process
+## How I Work
 
-[**Pixel Process (PxP)**](https://www.pixelprocess.org/) is a free, open-source learning environment oriented towards hands-on, practical programming and analysis.  
+Most engagements start with a conversation about your specific situation. From there, work typically falls into one of three shapes:
 
-- 50+ content pages including web pages, Jupyter notebooks, and interactive pages  
-- Fully open source and available for anyone to explore: **ad-free, privacy forward**  
-- PxP is built using popular open source tools:
-  - **Front-end**: Quarto, GitHub Pages, HTML, CSS
-  - **Back-end**: FastAPI, nginx
-  - **Programming Languages**: Python, R
-  - **Interactivity**: JupyterLite, JupyterLab with Binder, WebR
-- Contents include:
-  - Introduction to programming concenpts
-  - Data Visualization Guides
-  - Machine Learning Tutorials 
+**Project-based consulting.** A defined scope — build a validation pipeline, audit a model's methodology, design a data collection strategy. Clear deliverables, clear timeline.
 
-PxP combines **programming, design, and pedagogy** to create interactive, reproducible, and helpful learning tools.
+**Team training.** Custom materials for your stack and your problems. Not generic "intro to ML" workshops — targeted content that addresses the gaps your team actually has. I've built an [entire open-source learning platform](https://pixelprocess.org) as proof of concept for this approach.
+
+**Hourly problem-solving.** You're stuck, you need a second set of eyes, and you need it this week. Code review, debugging, architecture decisions, methodology questions.
 
 ---
 
-## About Me
+## Why Me
 
-I am the founder of DxD, with a Ph.D. in psychology and 15+ years of experience in data science, research, and teaching. My background spans academia, industry, and government contracts (FDA, NIH).  
+I have a PhD in psychology with 15+ years of research experience in neuroimaging and applied data science. That background means I think about data problems from the methodology up — not just "does the code run" but "does this approach actually answer the question you're asking."
 
-My focus is **data, methods, and workflows**—researching, testing, and building solutions that remove friction so teams can focus on their expertise.
+My open-source work demonstrates how I think and build:
+
+**[Face Value](https://github.com/pixel-process-dev/face-value)** — An end-to-end computer vision pipeline showing that domain-matched weak supervision outperforms benchmark datasets on real-world validation. Complete with an [interactive results dashboard](https://face-value.streamlit.app/).
+
+**[Pixel Process](https://pixelprocess.org)** — An open-source data science platform with applied case studies, workflow patterns, and interactive learning materials. The full source code is public.
 
 ---
 
-## Work With DxD
+## Get In Touch
 
-Have a use-case in mind? Want more details? 
+If any of this sounds relevant to what you're working on, send me an email and tell me what you're dealing with. I'll let you know if I can help.
 
-Email me at <dexterous.data.llc@gmail.com> and I’ll review it and respond if it is a good fit.
+[dexterous.data.llc@gmail.com](mailto:dexterous.data.llc@gmail.com)
