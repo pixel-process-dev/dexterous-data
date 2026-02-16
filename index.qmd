@@ -9,7 +9,7 @@ format:
         <style>#title-block-header { display: none; }</style>
 ---
 
-::: {.pxp-section-header}
+::: {.pxp-hero}
 # Dexterous Data
 [Data science consulting for real-world results]{.section-subtitle}
 :::
